@@ -21,7 +21,7 @@ I have experience with that stack:
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
 
 <!--
 **WillianLauber/WillianLauber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
