@@ -21,7 +21,7 @@ I have experience with that stack:
 </a> 
 <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a><a target="_blank">
+</a><a href="https://www.mysql.com/" target="_blank">
   <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql">
 </a><a href="https://www.oracle.com/database/spatial/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="nodejs" width="40" height="40"/>
