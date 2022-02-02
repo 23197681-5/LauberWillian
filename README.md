@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Flutter and French
 
-I have experience with that stack:
+The stack I love:
 
 <a href="https://firebase.google.com/" target="_blank"> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
