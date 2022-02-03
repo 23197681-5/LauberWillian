@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter and French
+- 🌱 I’m currently learning French
 
 <a href="https://firebase.google.com/" target="_blank"> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
