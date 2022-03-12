@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning French
-
-
 
   <a href="https://www.linkedin.com/in/willian-a-lauber-713b91b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
