@@ -5,13 +5,16 @@
   
   <a href="https://exercism.org/profiles/WillianLauber">Exercism profile</a>
   
+  
+[My GitLab profile](https://gitlab.com/LauberWillian)
+  
+  
 [![LeetCode user WillianLauber](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Leetcode%20Solved%20Problems&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FWillianLauber&logo=leetcode&logoColor=yellow)](https://leetcode.com/WillianLauber/)
   
   [<img src="https://www.codewars.com/users/Willian%20Lauber/badges/small"/>](https://www.codewars.com/users/Willian%20Lauber)
 <!--
 **WillianLauber/WillianLauber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[My GitLab profile](https://gitlab.com/LauberWillian)
 
 Here are some ideas to get you started:
 
